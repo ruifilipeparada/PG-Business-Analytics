@@ -12,11 +12,11 @@ This repository reflects my learning journey in data analysis, machine learning,
 
 ## Estrutura | Structure 
 
-- **Machine Learning & Data Analytics**  
-- **Deep Learning & Computer Vision**  
-- **Natural Language Processing**  
-- **Time Series Forecasting**  
-- **Cloud Computing for Business Analytics**
+- **1. Machine Learning & Data Analytics**  
+- **2. Deep Learning & Computer Vision**  
+- **3. Natural Language Processing**  
+- **4. Time Series Forecasting**  
+- **5. Cloud Computing for Business Analytics**
 
 ## Ferramentas | Tools 
 
