@@ -12,6 +12,8 @@ This repository contains the projects developed during my Postgraduate in Busine
 Each folder corresponds to a course unit (UC), with practical work, code, and analysis.
 This repository reflects my learning journey in data analysis, machine learning, and business intelligence, combining technical skills with analytical thinking.
 
+---
+
 ## Estrutura | Structure 
 
 - **1. Machine Learning & Data Analytics**  
@@ -19,6 +21,8 @@ This repository reflects my learning journey in data analysis, machine learning,
 - **3. Natural Language Processing**  
 - **4. Time Series Forecasting**  
 - **5. Cloud Computing for Business Analytics**
+
+---
 
 ## Ferramentas | Tools 
 
