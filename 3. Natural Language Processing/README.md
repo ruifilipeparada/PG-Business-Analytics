@@ -6,6 +6,5 @@
 - treinar modelos para classificação e análise de tweets 
 
 ## Ferramentas  
-- Python  
+- Python (Pandas, Numpy, Scikit-learn, etc.)
 - NLTK 
-- Scikit-learn  
