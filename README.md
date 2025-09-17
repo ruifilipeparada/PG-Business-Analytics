@@ -1,6 +1,6 @@
 # Pós-Graduação em Business Analytics
 
-Este repositório reúne os projetos desenvolvidos ao longo da minha Pós-Graduação em Business Analytics, ISCAP.  
+Este repositório reúne os projetos desenvolvidos ao longo da Pós-Graduação em Business Analytics, ISCAP.  
 Cada pasta corresponde a uma Unidade Curricular (UC), com trabalhos práticos, código e análises.
 Este repositório reflete a minha jornada de aprendizagem em análise de dados, machine learning e business intelligence, combinando competências técnicas com pensamento analítico. 
 
