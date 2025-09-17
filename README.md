@@ -2,13 +2,13 @@
 
 Este repositório reúne os projetos desenvolvidos ao longo da Pós-Graduação em Business Analytics, ISCAP.  
 Cada pasta corresponde a uma Unidade Curricular (UC), com trabalhos práticos, código e análises.
-Este repositório reflete a minha jornada de aprendizagem em análise de dados, machine learning e business intelligence, combinando competências técnicas com pensamento analítico. 
+Este repositório reflete uma jornada de aprendizagem em análise de dados, machine learning e business intelligence, combinando competências técnicas com pensamento analítico. 
 
 ### English version 
 
-This repository contains the projects developed during my Postgraduate in Business Analytics.  
+This repository contains the projects developed during the Postgraduate in Business Analytics.  
 Each folder corresponds to a course unit (UC), with practical work, code, and analysis.
-This repository reflects my learning journey in data analysis, machine learning, and business intelligence, combining technical skills with analytical thinking.
+This repository reflects a learning journey in data analysis, machine learning, and business intelligence, combining technical skills with analytical thinking.
 
 ---
 
