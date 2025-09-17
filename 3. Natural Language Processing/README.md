@@ -7,4 +7,6 @@
 
 ## Ferramentas  
 - Python (Pandas, Numpy, Scikit-learn, etc.)
-- NLTK 
+- NLTK
+- Gensim
+- Matplotlib, Seaborn
