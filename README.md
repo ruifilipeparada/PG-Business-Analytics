@@ -33,4 +33,13 @@ This repository reflects a learning journey in data analysis, machine learning, 
 
 - Python
 - Modelos de Machine Learning
-- Dashboards / Visualização de dados 
+- Deep Learning (TensorFlow, Keras, PyTorch)
+- Dashboards / Visualização de dados (Matplotlib, Seaborn, Power BI)
+- NLP (NLTK, Gensim)
+- Estatística / SciPy / Statsmodels
+
+---
+
+> **Nota:** SQL foi utilizado em dezenas de exercícios da UC Data Warehouses & Business Intelligence, mas não nos projetos listados.  
+> **Note:** SQL was used in dozens of exercises for the UC Data Warehouses & Business Intelligence, but not in the listed projects.
+
